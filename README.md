@@ -1,0 +1,1 @@
+# Práticas da disciplina Computação gráfica
